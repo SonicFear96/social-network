@@ -2,7 +2,8 @@ import logo from "./logo.svg";
 import "./App.css";
 import { Message } from "./components/Message";
 
-const text = "этот текст передали пропсом и стилизовали через css";
+const text =
+  "этот текст передали пропсом, стилизовали через css и файл загрузили на github";
 
 function App() {
   return (
